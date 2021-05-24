@@ -1,0 +1,12 @@
+{
+    "name": "asus/webgis-karhutla",
+    "authors": [
+        {
+            "name": "diyarochima",
+            "email": "diyarochima@gmail.com"
+        }
+    ],
+    "require": {
+        "thingengineer/mysqli-database-class": "*"
+    }
+}
